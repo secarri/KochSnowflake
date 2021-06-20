@@ -11,7 +11,3 @@ What's covered in the file:
 Article on this one can be found here: https://www.artstation.com/se_carri/blog/Ew9O/koch-snowflake-using-vex
 
  If you are starting with Houdini and VEX, I hope that you’ve learned something  and if you have any questions, feel free to send me a message and I’ll do my best to help.
- 
- Thank you, 
- 
- Sergi
