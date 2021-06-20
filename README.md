@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/18498709/122683659-f2c8a200-d200-11eb-96a0-b2babc78a382.mp4
+
 # Koch Snowflake
 First on a blog series on the development of short exercises. In this case we take a look at the Koch Snowflake fractal, one of the simplest of its kind. 
 
